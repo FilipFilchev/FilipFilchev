@@ -19,5 +19,5 @@
 - Linkedin: https://bg.linkedin.com/in/filip-filchev-5206951b9
 - Email: filip.donchev.filchev@gmail.com
   
-# ⚡ Portfolio: filipfilchev.com
+# ⚡ Portfolio
 
