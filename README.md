@@ -12,7 +12,7 @@
 
 # 🔭 I’m currently working on:
 - Private ML & CV projects with Python.
-- Private Bosch QA (software & hardware testing) with CANoe/TRACE32/C/Python
+- Private Industrial Drones Development at D-Aerospace
 - Public Web-Projects with JS(React) & Python(BackEnd)
   
 # 📫 How to reach me: 
@@ -20,4 +20,4 @@
 - Email: filip.donchev.filchev@gmail.com
   
 # ⚡ Portfolio
-
+- check out repos
